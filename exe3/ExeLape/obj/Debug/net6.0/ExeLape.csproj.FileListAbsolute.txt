@@ -1,0 +1,15 @@
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\bin\Debug\net6.0\ExeLape.exe
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\bin\Debug\net6.0\ExeLape.deps.json
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\bin\Debug\net6.0\ExeLape.runtimeconfig.json
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\bin\Debug\net6.0\ExeLape.dll
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\bin\Debug\net6.0\ExeLape.pdb
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\obj\Debug\net6.0\ExeLape.csproj.AssemblyReference.cache
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\obj\Debug\net6.0\ExeLape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\obj\Debug\net6.0\ExeLape.AssemblyInfoInputs.cache
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\obj\Debug\net6.0\ExeLape.AssemblyInfo.cs
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\obj\Debug\net6.0\ExeLape.csproj.CoreCompileInputs.cache
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\obj\Debug\net6.0\ExeLape.dll
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\obj\Debug\net6.0\refint\ExeLape.dll
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\obj\Debug\net6.0\ExeLape.pdb
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\obj\Debug\net6.0\ExeLape.genruntimeconfig.cache
+C:\Users\Ruann\source\repos\ExeLape\ExeLape\obj\Debug\net6.0\ref\ExeLape.dll
